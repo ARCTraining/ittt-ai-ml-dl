@@ -5,10 +5,10 @@ A 4 session series of TechTalks/ training sessions for IT Colleagues to give a b
 realistic example familiar to most, the analysis of IT tickets.
 
 ## Suggested dates
-Session 1: Tuesday 19th May 1400-1500
-Session 2: Tuesday 2nd June 1400-1500
-Session 3: Tuesday 16th June 1400-1500
-Session 4: Tuesday 30th June 1400-1500
+* Session 1: Tuesday 19th May 1400-1500
+* Session 2: Tuesday 2nd June 1400-1500
+* Session 3: Tuesday 16th June 1400-1500
+* Session 4: Tuesday 30th June 1400-1500
 
 ## Example dataset
 https://github.com/karolzak/support-tickets-classification
