@@ -1,2 +1,3 @@
 # gitignore for session 3
 data/*
+.ipynb_checkpoints/session3_unsup_ML-checkpoint.ipynb
