@@ -1,3 +1,3 @@
 # gitignore for session 3
-*.csv
+data/*
 **/.ipynb_checkpoints/**
